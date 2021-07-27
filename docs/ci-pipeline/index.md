@@ -1,17 +1,8 @@
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+---
+title: Tableau Connector SDK Home
+layout: home
+---
 
-- [Your CI Pipeline](#your-ci-pipeline)
-	- [Benefits of the CI pipeline](#benefits-of-the-ci-pipeline)
-	- [Your repository](#your-repository)
-	- [How the CI pipeline works](#how-the-ci-pipeline-works)
-	- [Configure your CI pipeline](#configure-your-ci-pipeline)
-		- [Step 1: Add your resources](#step-1-add-your-resources)
-		- [Step 2: Edit your configuration file](#step-2-edit-your-configuration-file)
-		- [Step 3: Get your changes in the repo](#step-3-get-your-changes-in-the-repo)
-	- [Create a release](#create-a-release)
-	- [Verify results](#verify-results)
-
-<!-- /TOC -->
 # Your CI Pipeline
 
 The Continuous Integration (CI) Pipeline can test TACO files across many environments, including multiple operating systems, databases, driver versions, and Tableau versions. It allows you to debug on machines where errors happen and provides messages to identify and help debug specific issues.
