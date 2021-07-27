@@ -1,6 +1,5 @@
 ---
 title: Get Started
-layout: docs
 ---
 
 Create a Web Data Connector (WDC) when you want to connect to a web data source from Tableau. A WDC is an HTML page
