@@ -1,6 +1,5 @@
 ---
 title: WDC Versions
-layout: docs
 ---
 
 Every web data connector must include a reference to the Tableau WDC
