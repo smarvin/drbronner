@@ -1,6 +1,6 @@
 ---
 title: Tableau Connector SDK Home
-layout: home
+layout: default
 ---
 
 # Your CI Pipeline
