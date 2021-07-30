@@ -1,6 +1,5 @@
 ---
 title: WDC Working with CORS
-layout: docs
 ---
 
 The JavaScript code in a web data connector typically makes requests to
