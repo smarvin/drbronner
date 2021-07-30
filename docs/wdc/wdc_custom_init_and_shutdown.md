@@ -1,6 +1,5 @@
 ---
 title: WDC Custom Initialization and Shutdown
-layout: docs
 ---
 
 Your code might need to open a resource or perform a setup task for the
