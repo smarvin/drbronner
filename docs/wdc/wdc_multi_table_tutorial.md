@@ -1,6 +1,5 @@
 ---
 title: WDC Multiple Tables Tutorial
-layout: docs
 ---
 
 > This tutorial builds on the connector created in the basic [tutorial]({{ site.baseurl }}/docs/wdc_tutorial). Ensure
