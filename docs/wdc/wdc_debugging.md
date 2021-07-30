@@ -1,6 +1,5 @@
 ---
 title: Debugging in the Simulator and Tableau
-layout: docs
 ---
 
 You can use the simulator included with the WDC SDK to develop and debug your connectors more quickly. The simulator
