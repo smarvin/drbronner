@@ -1,6 +1,5 @@
 ---
 title: WDC Authentication
-layout: docs
 ---
 
 Many connectors require authentication to connect to a data source.
