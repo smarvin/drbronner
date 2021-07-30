@@ -1,6 +1,5 @@
 ---
 title: Supported Date Formats
-layout: docs
 ---
 
 Web data connectors can work with Date and DateTime values that use the
