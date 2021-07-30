@@ -1,6 +1,5 @@
 ---
 title: WDC Samples
-layout: docs
 ---
 
 The Web Data Connector comes with sample connectors that you can use to learn about specific features of the WDC API.
