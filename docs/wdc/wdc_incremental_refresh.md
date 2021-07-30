@@ -1,6 +1,5 @@
 ---
 title: WDC Incremental Refresh
-layout: docs
 ---
 
 Tableau uses web data connectors to fetch data and store that data in an extract. You can always refresh the entire
