@@ -1,6 +1,5 @@
 ---
 title: Use a WDC in Tableau Desktop
-layout: docs
 ---
 To use a WDC in Tableau Desktop, complete the following steps:
 
