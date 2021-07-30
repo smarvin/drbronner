@@ -1,5 +1,11 @@
 ---
 title: WDC Multiple Tables Tutorial
+tags: [formatting]
+keywords: notes, tips, cautions, warnings, admonitions
+last_updated: July 3, 2016
+summary: "You can insert notes, tips, warnings, and important alerts in your content."
+sidebar: mydoc_sidebar
+permalink: wdc_multi_table_tutorial.html
 ---
 
 > This tutorial builds on the connector created in the basic [tutorial]({{ site.baseurl }}/docs/wdc_tutorial). Ensure

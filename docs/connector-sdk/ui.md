@@ -1,5 +1,11 @@
 ---
 title: Build the Connection Dialog with Connection Dialog v1
+tags: [formatting]
+keywords: notes, tips, cautions, warnings, admonitions
+last_updated: July 3, 2016
+summary: "You can insert notes, tips, warnings, and important alerts in your content."
+sidebar: mydoc_sidebar
+permalink: ui.html
 ---
 
 The connection dialog prompts the user to enter connection and authentication information. That information is passed into the Connector Builder script to build the connection string. The dialog appears when creating a new connection or editing an existing connection and is used by both Tableau Desktop and Tableau Server.

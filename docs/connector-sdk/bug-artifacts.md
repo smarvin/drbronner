@@ -1,5 +1,11 @@
 ---
 title: Filing a Bug with the SDK
+tags: [formatting]
+keywords: notes, tips, cautions, warnings, admonitions
+last_updated: July 30, 2021
+summary: "You can insert notes, tips, warnings, and important alerts in your content."
+sidebar: mydoc_sidebar
+permalink: bug-artifacts.html
 ---
 
 If you encounter a bug with the Tableau Connector SDK, please file it as a github issue. We will take a look at it and respond as soon as we are able.

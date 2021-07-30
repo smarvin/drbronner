@@ -1,18 +1,25 @@
 ---
 title: Capabilities
+tags: [formatting]
+keywords: notes, tips, cautions, warnings, admonitions
+last_updated: July 30, 2021
+summary: "You can insert notes, tips, warnings, and important alerts in your content."
+sidebar: mydoc_sidebar
+permalink: capabilities.html
 ---
 
 Use Tableau capabilities to customize and tune your connector behavior. 
 
-* [Metadata](#metadata)
-* [Temporary Tables](#temporary-tables)
-* [String Splits](#string-splits)
-* [Query](#query)
-* [JDBC](#jdbc)
-* [ODBC](#odbc)
-* [Stored Procedures](#stored-procedures)
-* [Isolation Level](#isolation-level)
-* [Uncommon](#uncommon)
+- [Metadata](#metadata)
+- [Temporary Tables](#temporary-tables)
+- [String Splits](#string-splits)
+- [Initial SQL](#initial-sql)
+- [Query](#query)
+- [JDBC](#jdbc)
+- [ODBC](#odbc)
+- [Stored Procedures](#stored-procedures)
+- [Isolation Level](#isolation-level)
+- [Uncommon](#uncommon)
 
 **Read the table**
 

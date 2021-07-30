@@ -1,5 +1,11 @@
 ---
 title: Use a WDC in Tableau Server
+tags: [formatting]
+keywords: notes, tips, cautions, warnings, admonitions
+last_updated: July 3, 2016
+summary: "You can insert notes, tips, warnings, and important alerts in your content."
+sidebar: mydoc_sidebar
+permalink: wdc_use_in_server.html
 ---
 
 You can use your web data connector (WDC) on Tableau Server as you would any other data source. You can publish the web data connector as a data source, or you can publish a workbook that embeds your connector as the data source.  

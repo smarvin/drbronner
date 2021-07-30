@@ -1,5 +1,11 @@
 ---
 title: Driver Requirements
+tags: [formatting]
+keywords: notes, tips, cautions, warnings, admonitions
+last_updated: July 3, 2016
+summary: "You can insert notes, tips, warnings, and important alerts in your content."
+sidebar: mydoc_sidebar
+permalink: drivers.html
 ---
 
 Connectors built with the Connector SDK use either an ODBC or a JDBC driver to communicate with the database.

@@ -1,5 +1,11 @@
 ---
 title: Build the Connection Dialog with Connection Dialog v2
+tags: [formatting]
+keywords: notes, tips, cautions, warnings, admonitions
+last_updated: July 3, 2016
+summary: "You can insert notes, tips, warnings, and important alerts in your content."
+sidebar: mydoc_sidebar
+permalink: mcd.html
 ---
 **IMPORTANT:** This feature is available only in Tableau 2020.3 or later. For compatibility with older versions, use Connection Dialog v1 (documentation found [here]({{ site.baseurl }}/docs/ui)).
 

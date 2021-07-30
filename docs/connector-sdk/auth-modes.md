@@ -1,5 +1,11 @@
 ---
 title: Authentication Modes
+tags: [formatting]
+keywords: notes, tips, cautions, warnings, admonitions
+last_updated: July 30, 2021
+summary: "You can insert notes, tips, warnings, and important alerts in your content."
+sidebar: mydoc_sidebar
+permalink: auth-modes.html
 ---
 
 The authentication mode chosen below influences how and when a user is prompted to enter data source credentials. The primary scenarios where authentication occurs:

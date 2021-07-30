@@ -1,5 +1,11 @@
 ---
 title: Upgrading from WDC Version 1.x 
+tags: [formatting]
+keywords: notes, tips, cautions, warnings, admonitions
+last_updated: July 3, 2016
+summary: "You can insert notes, tips, warnings, and important alerts in your content."
+sidebar: mydoc_sidebar
+permalink: wdc_upgrade.html
 ---
 
 If you have built connectors using WDC version 1.x you can continue to use those connectors in Tableau, up through Tableau 2019.1. See [WDC Versions]({{ site.baseurl }}\docs\wdc_library_versions) for information about compatibility. However, you cannot turn a version 1.x connector into a version 2.x connector by just linking to version 2.x of the Tableau WDC library. The connector will not work unless you also update the connector to use code changes introduced in version 2.x of the API.

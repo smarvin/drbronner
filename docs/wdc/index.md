@@ -1,5 +1,11 @@
 ---
 title: Get Started
+tags: [formatting]
+keywords: notes, tips, cautions, warnings, admonitions
+last_updated: July 3, 2016
+summary: "You can insert notes, tips, warnings, and important alerts in your content."
+sidebar: mydoc_sidebar
+permalink: index.html
 ---
 
 Create a Web Data Connector (WDC) when you want to connect to a web data source from Tableau. A WDC is an HTML page

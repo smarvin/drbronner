@@ -1,5 +1,11 @@
 ---
 title: WDC Versions
+tags: [formatting]
+keywords: notes, tips, cautions, warnings, admonitions
+last_updated: July 3, 2016
+summary: "You can insert notes, tips, warnings, and important alerts in your content."
+sidebar: mydoc_sidebar
+permalink: wdc_library_versions.html
 ---
 
 Every web data connector must include a reference to the Tableau WDC

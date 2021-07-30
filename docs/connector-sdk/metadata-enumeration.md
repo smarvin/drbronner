@@ -1,5 +1,11 @@
 ---
 title: Metadata Enumeration
+tags: [formatting]
+keywords: notes, tips, cautions, warnings, admonitions
+last_updated: July 3, 2016
+summary: "You can insert notes, tips, warnings, and important alerts in your content."
+sidebar: mydoc_sidebar
+permalink: metadata-enumeration.html
 ---
 
 Connection metadata refers to the set of APIs Tableau uses to model Database/Schema/Table hierarchy, as well as table column details like name, type and constraints. When connecting to a data source Tableau needs to start by enumerating the hierarchy and related entities. When selecting a table, or connecting to an existing saved connection,  the column level info needs to be queried as well. 

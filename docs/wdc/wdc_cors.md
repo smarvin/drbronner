@@ -1,5 +1,11 @@
 ---
 title: WDC Working with CORS
+tags: [formatting]
+keywords: notes, tips, cautions, warnings, admonitions
+last_updated: July 3, 2016
+summary: "You can insert notes, tips, warnings, and important alerts in your content."
+sidebar: mydoc_sidebar
+permalink: wdc_cors.html
 ---
 
 The JavaScript code in a web data connector typically makes requests to

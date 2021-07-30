@@ -1,6 +1,11 @@
 ---
-layout: api-ref
 title: WDC API Reference
+tags: [formatting]
+keywords: notes, tips, cautions, warnings, admonitions
+last_updated: July 3, 2016
+summary: "You can insert notes, tips, warnings, and important alerts in your content."
+sidebar: mydoc_sidebar
+permalink: api_ref.html
 ---
 <nav class="tsd-navigation secondary well docs-menu col-xs-12 col-sm-4 col-md-3">
     <ul>

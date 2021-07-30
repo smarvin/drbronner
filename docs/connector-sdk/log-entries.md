@@ -1,5 +1,11 @@
 ---
 title: Signature Verification Log Entries
+tags: [formatting]
+keywords: notes, tips, cautions, warnings, admonitions
+last_updated: July 3, 2016
+summary: "You can insert notes, tips, warnings, and important alerts in your content."
+sidebar: mydoc_sidebar
+permalink: log-entries.html
 ---
  
 When the signature verification completes and the connector loads, entries are made to the logs. This page describes the log entries. 

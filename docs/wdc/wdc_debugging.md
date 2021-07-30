@@ -1,5 +1,11 @@
 ---
 title: Debugging in the Simulator and Tableau
+tags: [formatting]
+keywords: notes, tips, cautions, warnings, admonitions
+last_updated: July 3, 2016
+summary: "You can insert notes, tips, warnings, and important alerts in your content."
+sidebar: mydoc_sidebar
+permalink: wdc_debugging.html
 ---
 
 You can use the simulator included with the WDC SDK to develop and debug your connectors more quickly. The simulator

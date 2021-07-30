@@ -1,5 +1,11 @@
 ---
 title: Hosting and Submitting to the Community Portal
+tags: [formatting]
+keywords: notes, tips, cautions, warnings, admonitions
+last_updated: July 3, 2016
+summary: "You can insert notes, tips, warnings, and important alerts in your content."
+sidebar: mydoc_sidebar
+permalink: wdc_hosting_and_submissions.html
 ---
 
 Submit your connector to the [Community Connector]({{ site.baseurl }}/community/)

@@ -1,5 +1,11 @@
 ---
 title: Tableau Connector SDK
+tags: [formatting]
+keywords: notes, tips, cautions, warnings, admonitions
+last_updated: July 3, 2016
+summary: "You can insert notes, tips, warnings, and important alerts in your content."
+sidebar: mydoc_sidebar
+permalink: index.html
 ---
 Tableau has great connectivity that allows you to visualize data from virtually anywhere. Tableau includes dozens of connectors already, and also gives you the tools to build a new connector with the Tableau Connector SDK.
 

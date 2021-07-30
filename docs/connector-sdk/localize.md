@@ -1,5 +1,11 @@
 ---
 title: Localize Your Connector
+tags: [formatting]
+keywords: notes, tips, cautions, warnings, admonitions
+last_updated: July 3, 2016
+summary: "You can insert notes, tips, warnings, and important alerts in your content."
+sidebar: mydoc_sidebar
+permalink: localize.html
 ---
 
 Tableau products are localized in English (United States), English (United Kingdom), French, German, Brazilian Portuguese, Spanish, Korean, Japanese, simplified Chinese, and traditional Chinese.

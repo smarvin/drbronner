@@ -1,5 +1,11 @@
 ---
 title: Join Filtering
+tags: [formatting]
+keywords: notes, tips, cautions, warnings, admonitions
+last_updated: July 3, 2016
+summary: "You can insert notes, tips, warnings, and important alerts in your content."
+sidebar: mydoc_sidebar
+permalink: wdc_join_filtering.html
 ---
 
 When you connect to multiple tables of data with a web data connector, you can filter the data from one table based on the data from another table.

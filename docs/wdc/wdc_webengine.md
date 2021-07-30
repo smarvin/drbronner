@@ -1,5 +1,11 @@
 ---
 title: Troubleshoot WDC WebEngine Issues in Tableau 2019.4 and later
+tags: [formatting]
+keywords: notes, tips, cautions, warnings, admonitions
+last_updated: July 3, 2016
+summary: "You can insert notes, tips, warnings, and important alerts in your content."
+sidebar: mydoc_sidebar
+permalink: wdc_webengine.html
 ---
 Prior to Tableau 2019.4, Web Data Connectors used an internal browser in Tableau called Qt WebKit. In Tableau 2019.4 and later, Web Data Connectors use Qt WebEngine, a Chromium-based browser. The Qt WebEngine is a significant upgrade over the previous internal browser and WDC developers will benefit from being able to use modern JavaScript tools and practices that improve the user interface and user interactions. The new browser provides better support for HTML5 and allows developers to use modern debugging tools and the [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools){:target="_blank"}{:ref="noopener"} for debugging WDC code.
 

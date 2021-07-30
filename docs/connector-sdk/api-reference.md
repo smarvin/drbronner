@@ -1,5 +1,11 @@
 ---
 title: Connector API Reference
+tags: [formatting]
+keywords: api, reference
+last_updated: July 30, 2021
+summary: "Describes the reference content for the Connector SDK"
+sidebar: mydoc_sidebar
+permalink: api-reference.html
 ---
 
 ## Connection Resolver \*.tdr

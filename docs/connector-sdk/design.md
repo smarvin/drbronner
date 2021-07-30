@@ -1,5 +1,11 @@
 ---
 title: Connector Design Considerations
+tags: [formatting]
+keywords: notes, tips, cautions, warnings, admonitions
+last_updated: July 3, 2016
+summary: "You can insert notes, tips, warnings, and important alerts in your content."
+sidebar: mydoc_sidebar
+permalink: design.html
 ---
 
 The choices you make when creating a connector can include which superclass and dialect to use, and how you want to tune your connection using Tableau capabilities.

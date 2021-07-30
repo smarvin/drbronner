@@ -1,5 +1,11 @@
 ---
 title: WDC Custom Initialization and Shutdown
+tags: [formatting]
+keywords: notes, tips, cautions, warnings, admonitions
+last_updated: July 3, 2016
+summary: "You can insert notes, tips, warnings, and important alerts in your content."
+sidebar: mydoc_sidebar
+permalink: wdc_custom_init_and_shutdown.html
 ---
 
 Your code might need to open a resource or perform a setup task for the
