@@ -1,6 +1,5 @@
 ---
 title: Join Filtering
-layout: docs
 ---
 
 When you connect to multiple tables of data with a web data connector, you can filter the data from one table based on the data from another table.
