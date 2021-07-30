@@ -1,8 +1,6 @@
 ---
-title: Tableau Connector SDK Home
+title: Your CI Pipeline
 ---
-
-# Your CI Pipeline
 
 The Continuous Integration (CI) Pipeline can test TACO files across many environments, including multiple operating systems, databases, driver versions, and Tableau versions. It allows you to debug on machines where errors happen and provides messages to identify and help debug specific issues.
 
