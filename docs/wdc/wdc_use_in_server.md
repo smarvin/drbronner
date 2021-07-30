@@ -1,6 +1,5 @@
 ---
 title: Use a WDC in Tableau Server
-layout: docs
 ---
 
 You can use your web data connector (WDC) on Tableau Server as you would any other data source. You can publish the web data connector as a data source, or you can publish a workbook that embeds your connector as the data source.  
