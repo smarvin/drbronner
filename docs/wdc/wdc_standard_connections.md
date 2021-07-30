@@ -1,6 +1,5 @@
 ---
 title: Standard Connections
-layout: docs
 ---
 
 When you create a web data connector that gets data from multiple tables, you can pre-specify how you want to join
