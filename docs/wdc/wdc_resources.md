@@ -1,6 +1,5 @@
 ---
 title: Developer Resources
-layout: docs
 ---
 
 New to web development? Start here:
