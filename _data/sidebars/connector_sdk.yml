@@ -1,0 +1,106 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Tableau Connector SDK
+  product: Connectors Plugin SDK
+  version:
+  folders:
+
+  - title: Overview
+    output: web
+    folderitems:
+    - title: Tableau Connector SDK
+      url: /connector-sdk/index.html
+      output: web
+
+    - title: Connector examples
+      url: /connector-sdk/examples.html
+      output: web
+
+  - title: Basic concepts
+    output: web
+
+    folderitems:
+    - title: Design considerations
+      url: /connector-sdk/design.html
+      output: web
+
+    - title: Driver requirements
+      url: /connector-sdk/drivers.html
+      output: web
+
+    - title: Create a dialect definition (TDD)
+      url: /connector-sdk/dialect.html
+      output: web
+
+    - title: Build the connection dialog with Connection Dialog v1
+      url: /connector-sdk/ui.html
+      output: web
+
+    - title: Build the connection dialog with Connection Dialog v2
+      url: /connector-sdk/mcd.html
+      output: web
+
+    - title: OAuth authentication support
+      url: /connector-sdk/oauth.html
+      output: web
+
+    - title: Test with the TDVT Suite
+      url: /connector-sdk/tdvt.html
+      output: web
+
+    - title: Fixing TDVT test failures
+      url: /connector-sdk/tdvt-test-case.html
+      output: web
+
+    - title: Run manual QA tests
+      url: /connector-sdk/manual-test.html
+      output: web
+
+    - title: Localize your connector
+      url: /connector-sdk/localize.html
+      output: web
+
+    - title: Package and sign your connector for distribution
+      url: /connector-sdk/package-sign.html
+      output: web
+
+    - title: Run your connector
+      url: /connector-sdk/run-taco.html
+      output: web
+
+    - title: Filing a bug with the SDK
+      url: /connector-sdk//bug-artifacts.html
+      output: web
+
+  - title: Reference
+    folderitems:
+
+    - title: API reference
+      url: /connector-sdk/api-reference.html
+      output: web
+
+    - title: Capabilities
+      url: /connector-sdk/capabilities.html
+      output: web
+
+    - title: Metadata enumeration
+      url: /connector-sdk/metadata-enumeration.html
+      output: web
+
+    - title: Authentication modes
+      url: /connector-sdk/auth-modes.html
+      output: web
+
+    - title: Signature verification log entries
+      url: /connector-sdk/log-entries.html
+      output: web
+
+    - title: Gallery submission guide
+      url: /connector-sdk/gallery-submission.html
+      output: web
+
+
+
+# Copyright 2021 Google LLC

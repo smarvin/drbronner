@@ -3,18 +3,16 @@
 
 entries:
 - title: CI Pipeline
-  folders:
+  folderitems:
 
-  - title: Other Links
-    folderitems:
+  - title: Overview
+    url: /ci-pipeline/overview.html
 
-    - title: Automated links bookmark
-      url: /mydoc_hyperlinks.html#automatedlinks
+  - title: Configuration
+    url: /ci-pipeline/configuration.html
 
-    - title: Bookmark links
-      url: /mydoc_hyperlinks.html#bookmarklinks
+  - title: Testing
+      url: /ci-pipeline/testing.html
 
-    - title: Some link bookmark
-      url: /mydoc_pages.html#someIdTag
 
 # Copyright 2021 Google LLC

@@ -179,29 +179,29 @@ entries:
   version: 6.0
   folders:
   - title: Overview
-    output: web, pdf
+    output: web
     folderitems:
 
     - title: Get started
       url: /index.html
-      output: web, pdf
+      output: web
       type: homepage
 
     - title: Introduction
       url: /mydoc_introduction.html
-      output: web, pdf
+      output: web
 
   - title: Release Notes
-    output: web, pdf
+    output: web
     folderitems:
 
     - title: 6.0 Release notes
       url: /mydoc_release_notes_60.html
-      output: web, pdf
+      output: web
 
     - title: 5.0 Release notes
       url: /mydoc_release_notes_50.html
-      output: web, pdf
+      output: web
 
   - title: Tag archives
     output: web
@@ -246,38 +246,38 @@ entries:
   version: 6.0
   folders:
   - title: Overview
-    output: web, pdf
+    output: web
     folderitems:
 
     -
 
   - title: Release Notes
-    output: web, pdf
+    output: web
     folderitems:
 
     - title: 6.0 Release notes
       url: /mydoc_release_notes_60.html
-      output: web, pdf
+      output: web
 
     - title: 5.0 Release notes
       url: /mydoc_release_notes_50.html
-      output: web, pdf
+      output: web
 
   - title: Installation
-    output: web, pdf
+    output: web
     folderitems:
 
     - title: About Ruby, Gems, Bundler, etc.
       url: /mydoc_about_ruby_gems_etc.html
-      output: web, pdf
+      output: web
 
     - title: Install Jekyll on Mac
       url: /mydoc_install_jekyll_on_mac.html
-      output: web, pdf
+      output: web
 
     - title: Install Jekyll on Windows
       url: /mydoc_install_jekyll_on_windows.html
-      output: web, pdf
+      output: web
 ```
 
 To accommodate the title page and table of contents in PDF outputs, each product sidebar must list these pages before any other:

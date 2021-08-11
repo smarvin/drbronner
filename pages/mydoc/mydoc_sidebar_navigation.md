@@ -74,7 +74,7 @@ This is why the `url` value in the sidebar data file looks something like this:
 ```yaml
     - title: Understanding how the sidebar works
       permalink: mydoc_understand_sidebar.html
-      output: web, pdf
+      output: web
 ```
 
 Note that the url does not include the project folder where the file is stored. This is because the site uses permalinks, which pulls the topics out of subfolders and places them into the root directory when the site builds.
