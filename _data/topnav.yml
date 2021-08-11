@@ -13,7 +13,7 @@ topnav_dropdowns:
     - title: Connector Plugin SDK
       folderitems:
         - title: Documentation
-          url: /connector_sdk/index.html
+          url: /connector-sdk/index.html
         - title: API reference
           external_url: https://tableau.github.io/connector-plugin-sdk/docs/api-reference
     - title: Web Data Connector
@@ -25,6 +25,6 @@ topnav_dropdowns:
         - title: Download
           external_url: https://github.com/tableau/webdataconnector/archive/2.1.0.zip
     - title: CI Pipeline
-      url: /ci_pipeline/index.html
+      url: /ci-pipeline/index.html
 
 # Copyright 2021 Google LLC
