@@ -1,5 +1,11 @@
 ---
 title: Your CI Pipeline
+tags: [pipeline]
+keywords: notes, tips, cautions, warnings, admonitions
+last_updated: August 11, 2021
+summary: "The CI Pipeline can test TACO files across many environments, including multiple operating systems, databases, driver versions, and Tableau versions."
+sidebar: ci_pipeline
+permalink: index.html
 ---
 
 The Continuous Integration (CI) Pipeline can test TACO files across many environments, including multiple operating systems, databases, driver versions, and Tableau versions. It allows you to debug on machines where errors happen and provides messages to identify and help debug specific issues.
