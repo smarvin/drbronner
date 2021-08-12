@@ -2,8 +2,6 @@
 
 entries:
 - title: Sidebar
-  product: Tableau Connectors
-  version:
   folders:
 
   - title: Overview
