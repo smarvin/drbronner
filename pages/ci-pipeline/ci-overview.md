@@ -1,10 +1,10 @@
 ---
 title: Your CI Pipeline
-keywords: mydoc
+keywords: CI pipeline
 sidebar: product1_sidebar
 toc: false
-permalink: p1_landing_page.html
-folder: product1
+permalink: ci-overview.html
+folder: ci-pipeline
 ---
 
 The Continuous Integration (CI) Pipeline can test TACO files across many environments, including multiple operating systems, databases, driver versions, and Tableau versions. It allows you to debug on machines where errors happen and provides messages to identify and help debug specific issues.

@@ -59,4 +59,12 @@ entries:
       url: /p1_sample7.html
       output: web, pdf
 
+  - title: CI Pipeline
+    folderitems:
+      - title: Overview
+        url: /ci-overview.html
+
+      - title: Configuration
+        url: /ci-configuration.html
+
 # Copyright 2021 Google LLC

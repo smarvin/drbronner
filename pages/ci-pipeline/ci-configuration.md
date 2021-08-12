@@ -1,10 +1,10 @@
 ---
 title: configuration
-keywords: mydoc
+keywords: CI pipeline
 sidebar: product1_sidebar
-toc: false
-permalink: p1_landing_page.html
-folder: product1
+toc: true
+permalink: ci-configuration.html
+folder: ci-pipeline
 ---
 ## Configure your CI pipeline
 
