@@ -163,8 +163,8 @@ entries:
 
   - title: Handling reviews
     output: web
-
     folderitems:
+
     - title: Commenting on files
       url: /mydoc_commenting_on_files.html
       output: web
@@ -278,17 +278,5 @@ entries:
         - title: Troubleshooting pages
           url: /tag_troubleshooting.html
           output: web
-
-   - title: CI Pipeline
-     folderitems:
-
-     - title: Overview
-       url: /ci-pipeline/overview.html
-
-     - title: Configuration
-       url: /ci-pipeline/configuration.html
-
-     - title: Testing
-         url: /ci-pipeline/testing.html
 
 # Copyright 2021 Google LLC
