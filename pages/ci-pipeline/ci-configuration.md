@@ -53,14 +53,3 @@ To see an example of the finished configuration file, see the <a href="#config_f
 If you are making changes locally, [commit](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project) and [push](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/pushing-changes-to-github) your changes to GitHub.
 
 If you are making changes in the GitHub UI, add a description of your changes in the **Commit changes** area and click the **Commit changes** button.
-
-## Create a release
-
-## Verify results
-
-To verify your results, you can do either of the following:
-
-* Use the validation result email to get the submission ID.
-<img src="images/connectivity_ci_pipeline_email.jpg" alt="" />
-* Use the Tableau workbook.
-<img src="images/connectivity_ci_workbook.png" alt="" />

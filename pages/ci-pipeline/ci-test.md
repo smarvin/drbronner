@@ -13,6 +13,8 @@ When you [create a tag](https://docs.github.com/en/desktop/contributing-and-coll
 
 ## Monitor the job
 
+<!-- Include email, attachments (possibly show example of each), and also add section for Tuning/Fixing problems. -->
+
 
 ## Verify the results
 
