@@ -4,6 +4,7 @@ keywords: CI pipeline
 sidebar: product1_sidebar
 toc: false
 permalink: ci-overview.html
+summary: "The continuous integration (CI) pipeline lets you test and verify your TACO files in various environments and Tableau versions."
 folder: ci-pipeline
 ---
 
@@ -13,15 +14,15 @@ The Continuous Integration (CI) Pipeline can test TACO files across many environ
 
 The Connectivity CI pipeline lets you:
 
-* Use distributed test suites across machines.
-* Run each test suite in a clean environment.
-* Test a broad matrix of operating systems, databases, drivers, Tableau versions, and TACO files.
-* Run and get results from the Tableau Data Source Verification Tool (TDVT) test suite, usually within 10 minutes.
-* Bubble up actionable log messages.
-* Save the machine state when there’s a failure to help with diagnostics.
-* Test partner-built connectors on demand.
-* Analyze test results in Tableau. This allows you to prioritize how to fix failing tests, identify longest running test suite, detect test cases failing across all operating systems, and compare runs across various driver versions.
-* Isolate partner test results in a separate database.
+* Use distributed test suites across machines
+* Run each test suite in a clean environment
+* Test a broad matrix of operating systems, databases, drivers, Tableau versions, and TACO files
+* Run and get results from the Tableau Data Source Verification Tool (TDVT) test suite, usually within 10 minutes
+* Bubble up actionable log messages
+* Save the machine state when there’s a failure to help with diagnostics
+* Test partner-built connectors on demand
+* Analyze test results in Tableau. This allows you to prioritize how to fix failing tests, identify longest running test suite, detect test cases failing across all operating systems, and compare runs across various driver versions
+* Isolate partner test results in a separate database
 
 ## Your repository
 
