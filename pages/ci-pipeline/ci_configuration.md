@@ -3,7 +3,7 @@ title: configuration
 keywords: CI pipeline
 sidebar: product1_sidebar
 toc: true
-permalink: ci-configuration.html
+permalink: ci_configuration.html
 folder: ci-pipeline
 ---
 ## Configure your CI pipeline
