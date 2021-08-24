@@ -13,7 +13,7 @@ To test your connector, you must tag a commit with a version and then commit the
 When you [create a tag](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/managing-commits/managing-tags) for your connector, you start the CI pipeline. The results of the pipeline are emailed to the address you [configured earlier](./ci_configuration.html).
 
 ## Monitor the job
-
+You can monitor the pipeline job in the GitHub repo. Go to **Actions**, then click **TACO PIPELINE**.
 <!-- Include email, attachments (possibly show example of each), and also add section for Tuning/Fixing problems. -->
 
 
