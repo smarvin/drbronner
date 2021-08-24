@@ -9,7 +9,7 @@ folder: ci-pipeline
 ---
 
 To test your connector, you must tag a commit with a version and then commit the tag to the repo.
-## Create a release
+## Create a tag
 When you [create a tag](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/managing-commits/managing-tags) for your connector, you start the CI pipeline. The results of the pipeline are emailed to the address you [configured earlier](./ci_configuration.html).
 
 ## Monitor the job
